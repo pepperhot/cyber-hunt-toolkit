@@ -56,3 +56,6 @@ compliance-gate (GO/BLOCK)
 
 ## Installation
 Voir **`INSTALL-PROMPT.md`**.
+
+## Licence
+MIT — voir [`LICENSE`](LICENSE). Usage strictement sur des programmes et cibles **autorises**.
